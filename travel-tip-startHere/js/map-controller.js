@@ -1,6 +1,7 @@
 
 import {locationService} from './services/location-service.js'
 
+console.log('@@@')
 
 console.log('locationService', locationService);
 
